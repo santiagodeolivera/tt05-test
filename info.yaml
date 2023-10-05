@@ -45,7 +45,7 @@ documentation:
   outputs:
     - OUT0: Returns a signal of 1 if the key is correctly inserted. Otherwise, returns a signal of 0.
 # A description of what the bidirectional I/O pins do (e.g. I2C SDA, I2C SCL, etc)
-#  bidirectional:
+  bidirectional:
 #    - none
 
 # The following fields are optional
